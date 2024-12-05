@@ -1,0 +1,2 @@
+.site-header-content{min-height:70vh}.site-header-content.background-video{display:flex}video#background-video{width:100%;height:100%;-o-object-fit:cover;object-fit:cover;filter:brightness(30%);z-index:-1}.gh-head{padding-top:min(16px,3.6vmin);padding-bottom:min(16px,3.6vmin)}.gh-head-button{padding:4px 8px;height:30px;border-radius:3px}@media screen and (max-width:767px){p.site-description{display:none}}
+/*# sourceMappingURL=custom.css.map */
